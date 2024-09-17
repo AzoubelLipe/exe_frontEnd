@@ -1,0 +1,27 @@
+/* Estilos personalizados */
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.hero {
+    background: #343a40;
+    padding: 100px 0;
+}
+
+.hero h1 {
+    font-size: 4rem;
+}
+
+.hero p {
+    font-size: 1.5rem;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+.footer {
+    background: #343a40;
+    color: #ffffff;
+}
